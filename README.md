@@ -1,4 +1,4 @@
-FlowDynamicRedirect
+FlowFormatPhonetoUS
 ===================
 
 Flow Sample to show how to use an Apex Plug-in to format a US phone number.
